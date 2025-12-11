@@ -1,0 +1,14 @@
+C:\C#Project\PacemakerSim\PacemakerSim\bin\Debug\net10.0\PacemakerSim.exe
+C:\C#Project\PacemakerSim\PacemakerSim\bin\Debug\net10.0\PacemakerSim.deps.json
+C:\C#Project\PacemakerSim\PacemakerSim\bin\Debug\net10.0\PacemakerSim.runtimeconfig.json
+C:\C#Project\PacemakerSim\PacemakerSim\bin\Debug\net10.0\PacemakerSim.dll
+C:\C#Project\PacemakerSim\PacemakerSim\bin\Debug\net10.0\PacemakerSim.pdb
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.AssemblyInfoInputs.cache
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.AssemblyInfo.cs
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.csproj.CoreCompileInputs.cache
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.dll
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\refint\PacemakerSim.dll
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.pdb
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\PacemakerSim.genruntimeconfig.cache
+C:\C#Project\PacemakerSim\PacemakerSim\obj\Debug\net10.0\ref\PacemakerSim.dll
