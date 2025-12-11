@@ -1,0 +1,49 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Sat Nov 22 06:05:20 2025
+[*]
+[dumpfile] "C:\VerilogProjects\Pacemaker\pacemaker.vcd"
+[dumpfile_mtime] "Sat Nov 22 05:22:41 2025"
+[dumpfile_size] 2859
+[savefile] "C:\VerilogProjects\Pacemaker\oke"
+[timestart] 0
+[size] 1000 600
+[pos] 241 43
+*-16.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pacemaker_tb.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+pacemaker_tb.UUT.VT
+pacemaker_tb.UUT.RR
+pacemaker_tb.UUT.FiO2
+pacemaker_tb.UUT.PEEP
+pacemaker_tb.UUT.EP
+pacemaker_tb.UUT.SpO2
+pacemaker_tb.UUT.PS
+pacemaker_tb.UUT.PV
+pacemaker_tb.UUT.FM
+pacemaker_tb.UUT.MS
+pacemaker_tb.UUT.AL
+pacemaker_tb.UUT.SBT
+pacemaker_tb.UUT.STANDBY[2:0]
+pacemaker_tb.UUT.MONITOR[2:0]
+pacemaker_tb.UUT.ASSIST[2:0]
+pacemaker_tb.UUT.SUPPORT[2:0]
+pacemaker_tb.UUT.ADJ_PEEP[2:0]
+pacemaker_tb.UUT.ADJ_FIO2[2:0]
+pacemaker_tb.UUT.WEAN[2:0]
+pacemaker_tb.UUT.EMERGENCY[2:0]
+pacemaker_tb.UUT.state[2:0]
+pacemaker_tb.UUT.curr_state[2:0]
+pacemaker_tb.UUT.fail_count[2:0]
+@29
+pacemaker_tb.UUT.next_state[2:0]
+@28
+pacemaker_tb.UUT.all_ok
+pacemaker_tb.UUT.clk
+pacemaker_tb.UUT.rst
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,319 @@
+$date
+	Mon Dec 01 01:39:18 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module pacemaker_tb $end
+$var wire 3 ! state [2:0] $end
+$var wire 1 " SBT $end
+$var wire 1 # PV $end
+$var wire 1 $ PS $end
+$var wire 1 % MS $end
+$var wire 1 & FM $end
+$var wire 1 ' AL $end
+$var reg 1 ( EP $end
+$var reg 1 ) FiO2 $end
+$var reg 1 * PEEP $end
+$var reg 1 + RR $end
+$var reg 1 , SpO2 $end
+$var reg 1 - VT $end
+$var reg 1 . clk $end
+$var reg 1 / rst $end
+$scope module UUT $end
+$var wire 1 ( EP $end
+$var wire 1 ) FiO2 $end
+$var wire 1 * PEEP $end
+$var wire 1 + RR $end
+$var wire 1 , SpO2 $end
+$var wire 1 - VT $end
+$var wire 1 . clk $end
+$var wire 1 / rst $end
+$var wire 3 0 fail_count [2:0] $end
+$var wire 1 1 all_ok $end
+$var parameter 3 2 ADJ_FIO2 $end
+$var parameter 3 3 ADJ_PEEP $end
+$var parameter 3 4 ASSIST $end
+$var parameter 3 5 EMERGENCY $end
+$var parameter 3 6 MONITOR $end
+$var parameter 3 7 STANDBY $end
+$var parameter 3 8 SUPPORT $end
+$var parameter 3 9 WEAN $end
+$var reg 1 ' AL $end
+$var reg 1 & FM $end
+$var reg 1 % MS $end
+$var reg 1 $ PS $end
+$var reg 1 # PV $end
+$var reg 1 " SBT $end
+$var reg 3 : curr_state [2:0] $end
+$var reg 3 ; next_state [2:0] $end
+$var reg 3 < state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b110 9
+b11 8
+b0 7
+b1 6
+b111 5
+b10 4
+b100 3
+b101 2
+$end
+#0
+$dumpvars
+b0 <
+b1 ;
+b0 :
+11
+b0 0
+1/
+0.
+1-
+1,
+1+
+1*
+1)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+b0 !
+$end
+#5000
+1.
+#10000
+0.
+0/
+#15000
+1"
+b1 !
+b1 <
+b1 :
+1.
+#20000
+0.
+#25000
+1.
+#30000
+b10 ;
+0.
+01
+b1 0
+0(
+#35000
+1'
+1$
+b10 !
+b10 <
+0"
+b10 :
+1.
+#40000
+0.
+#45000
+1.
+#50000
+b1 ;
+0.
+11
+b0 0
+1(
+#55000
+1"
+b1 !
+b1 <
+0'
+0$
+b1 :
+1.
+#60000
+0.
+#65000
+1.
+#70000
+b101 ;
+0.
+01
+b1 0
+0,
+#75000
+1'
+1&
+b101 !
+b101 <
+0"
+b101 :
+1.
+#80000
+0.
+#85000
+1.
+#90000
+b1 ;
+0.
+11
+b0 0
+1,
+#95000
+1"
+b1 !
+b1 <
+0'
+0&
+b1 :
+1.
+#100000
+0.
+#105000
+1.
+#110000
+b11 ;
+0.
+01
+b1 0
+0-
+#115000
+1'
+1%
+1$
+b11 !
+b11 <
+0"
+b11 :
+1.
+#120000
+0.
+#125000
+1.
+#130000
+b1 ;
+0.
+11
+b0 0
+1-
+#135000
+1"
+b1 !
+b1 <
+0'
+0%
+0$
+b1 :
+1.
+#140000
+0.
+#145000
+1.
+#150000
+b100 ;
+0.
+01
+b1 0
+0*
+#155000
+1'
+1#
+b100 !
+b100 <
+0"
+b100 :
+1.
+#160000
+0.
+#165000
+1.
+#170000
+b1 ;
+0.
+11
+b0 0
+1*
+#175000
+1"
+b1 !
+b1 <
+0'
+0#
+b1 :
+1.
+#180000
+0.
+#185000
+1.
+#190000
+b111 ;
+0.
+0,
+0+
+01
+b11 0
+0-
+#195000
+1'
+1%
+1&
+1#
+1$
+b111 !
+b111 <
+0"
+b111 :
+1.
+#200000
+0.
+#205000
+1.
+#210000
+b1 ;
+0.
+11
+1,
+1+
+b0 0
+1-
+#215000
+1"
+b1 !
+b1 <
+0'
+0%
+0&
+0#
+0$
+b1 :
+1.
+#220000
+0.
+#225000
+1.
+#230000
+0.
+#235000
+1.
+#240000
+0.
+#245000
+1.
+#250000
+0.
+#255000
+1.
+#260000
+0.
+#265000
+1.
+#270000
+0.
+#275000
+1.
+#280000
+0.
